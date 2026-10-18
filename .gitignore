@@ -1,0 +1,18 @@
+# 원자료는 용량이 커서 올리지 않음 (data/README.md 참고)
+data/raw/*
+!data/raw/.gitkeep
+
+# 비밀 키
+.env
+
+# 압축 파일
+*.zip
+
+# 파이썬·주피터 부산물
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 운영체제 부산물
+.DS_Store
+Thumbs.db

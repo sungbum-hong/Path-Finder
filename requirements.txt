@@ -1,0 +1,12 @@
+pandas
+numpy
+geopandas
+shapely
+pyproj
+matplotlib
+folium
+statsmodels
+requests
+python-dotenv
+tqdm
+anthropic
