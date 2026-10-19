@@ -1,12 +1,10 @@
 pandas
 numpy
+scipy
+matplotlib
+openpyxl
 geopandas
 shapely
-pyproj
-matplotlib
-folium
-statsmodels
 requests
 python-dotenv
 tqdm
-anthropic
